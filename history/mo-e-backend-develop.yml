@@ -1,7 +1,7 @@
 url: https://api.develop.moe-digital-id.apps.atixlabs.xyz/healthcheck
-status: up
-code: 200
-responseTime: 94
-lastUpdated: 2022-06-29T00:35:08.677Z
+status: down
+code: 404
+responseTime: 159
+lastUpdated: 2022-06-29T00:45:42.036Z
 startTime: Tue Jun 28 2022 21:16:27 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
