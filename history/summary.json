@@ -22,7 +22,7 @@
     "url": "https://api.develop.moe-digital-id.apps.atixlabs.xyz/healthcheck",
     "icon": "https://favicons.githubusercontent.com/api.develop.moe-digital-id.apps.atixlabs.xyz",
     "slug": "mo-e-backend-develop",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 206,
     "timeMonth": 206,
     "timeYear": 206,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-03": 0
+    }
   },
   {
     "name": "MoE-Frontend-Staging",
