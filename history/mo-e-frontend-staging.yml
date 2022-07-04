@@ -1,7 +1,7 @@
 url: https://frontend.staging.moe-digital-id.apps.atixlabs.xyz
-status: down
-code: 404
-responseTime: 312
-lastUpdated: 2022-07-04T19:39:46.891Z
+status: up
+code: 200
+responseTime: 309
+lastUpdated: 2022-07-04T19:52:34.329Z
 startTime: Tue Jun 28 2022 21:16:28 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
