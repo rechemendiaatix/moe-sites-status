@@ -4,36 +4,40 @@
     "url": "https://frontend.develop.moe-digital-id.apps.atixlabs.xyz",
     "icon": "https://favicons.githubusercontent.com/frontend.develop.moe-digital-id.apps.atixlabs.xyz",
     "slug": "mo-e-frontend-develop",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 185,
     "timeDay": 181,
     "timeWeek": 185,
     "timeMonth": 185,
     "timeYear": 185,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-04": 2
+    }
   },
   {
     "name": "MoE-Backend-Develop",
     "url": "https://api.develop.moe-digital-id.apps.atixlabs.xyz/healthcheck",
     "icon": "https://favicons.githubusercontent.com/api.develop.moe-digital-id.apps.atixlabs.xyz",
     "slug": "mo-e-backend-develop",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 196,
-    "timeDay": 163,
+    "timeDay": 188,
     "timeWeek": 196,
     "timeMonth": 196,
     "timeYear": 196,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-04": 0
+    }
   },
   {
     "name": "MoE-Frontend-Staging",
